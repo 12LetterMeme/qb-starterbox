@@ -1,4 +1,4 @@
-# QB-StarterBox
+# QB-Starterbox
 
 A simple script that makes a usable gift item giving new players a bunch of random items. Mine has great configurability with random items being given out with predetermined configurable amounts!
 
