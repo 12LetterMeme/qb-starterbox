@@ -13,7 +13,7 @@ slapped together by: 12LetterMeme#0001
 ```
 Config = {}
 Config.AmountOfItems = 10 --how many times the script will loop
-Config.OpenTime = 5000 --how long you want it to take to open the gift (in ms)
+Config.OpenTime = 5000 --how long it takes to open (in ms)
 Config.Joingiftitem = {
     [1] =  {
         item = "item1", -- Item name from your shared items.lua
