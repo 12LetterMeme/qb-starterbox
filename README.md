@@ -2,7 +2,7 @@
 
 A simple script that makes a usable gift item giving new players a bunch of random items. Mine has great configurability with random items being given out with predetermined configurable amounts!
 
-![qb-camera copy](https://user-images.githubusercontent.com/91357757/167040019-92e7fb4c-e3bd-4816-bb2c-a0bdb6135a27.png)
+![qb-starterbox](https://user-images.githubusercontent.com/91357757/173148818-42a166c3-f016-4b78-91be-ed5eacd1ef84.png)
 
 # Author
 slapped together by: 12LetterMeme#0001
