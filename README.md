@@ -1,6 +1,9 @@
 # QB-Starterbox
 
 A simple script that makes a usable gift item giving new players a bunch of random items. This script has amazing configurability with specific amounts of randomly drawn items!
+
+The philosophy behind this is to give players extra incentive to come back to your server. So finding a good balance of giving rare/semi rare items that a new player can’t exactly use at the start with a combination of useful items that will support them in getting adapted to your city will not only force the new player to interact with your currently community by asking about the rare items it will cause them to become a new member by making the starting period easier!
+
 ![qb-starterbox](https://user-images.githubusercontent.com/91357757/173148818-42a166c3-f016-4b78-91be-ed5eacd1ef84.png)
 
 # Author
