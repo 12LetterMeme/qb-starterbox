@@ -34,7 +34,7 @@ Add this into your items.lua to create the usable item.
 
 Support will not be given for installing the script
 ```
--- Starter Gift
+-- Starter Gift (change the name to something better, i was just too lazy to change it from testing)
 	["tlmgiftbox"] = {["name"] = "tlmgiftbox", ["label"] = "Gift Box", ["weight"] = 7000, ["type"] = "item", ["image"] = "startergift.png", ["unique"] = true, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Welcome to [yourservername]! Here's a little gift for being new to the city :)"},
 ```
 
